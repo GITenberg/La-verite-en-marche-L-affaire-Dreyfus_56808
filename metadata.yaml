@@ -1,0 +1,34 @@
+_repo: La-verite-en-marche-L-affaire-Dreyfus_56808
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Politique
+gutenberg_issued: '2018-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56808'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Press and politics -- France'
+- !lcsh 'France -- Politics and government -- 1870-1940 -- Sources'
+- !lcc 'DC'
+- !lcsh 'Antisemitism -- France'
+- !lcsh 'Dreyfus, Alfred, 1859-1935 -- Trials, litigation, etc.'
+- GITenberg
+title: 'La vérité en marche: L''affaire Dreyfus'
+url: http://www.gutenberg.org/ebooks/56808
