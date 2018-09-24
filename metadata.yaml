@@ -1,5 +1,8 @@
 _repo: La-verite-en-marche-L-affaire-Dreyfus_56808
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56808-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -12,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
     - http://en.wikipedia.org/wiki/Émile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56808#La-verite-en-marche-L-affaire-Dreyfus
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Politique
